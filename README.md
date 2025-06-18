@@ -1,5 +1,5 @@
 How To Use Code (Displacement)
-1.	Prepare Your Images
+**1.	Prepare Your Images**
 o	The images extracted from a recorded test video using a separate MATLAB code (Video).
 o	These extracted images should capture the motion you want to track frame by frame.
 2.	Name the Images Properly
